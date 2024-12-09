@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vcchikezie - I'm an attorney with interest in technology
+- 👋 Hi, I’m @vcchikezie - I'm an Attorney with interest in technology
 - 👀 I’m interested in Data Protection from technical components to regulatory compliance and audit
 - 🌱 I’m currently learning the technical and non-technical aspects of incident response and management
 - 💞️ I’m looking to collaborate on some low-code community driven projects.
