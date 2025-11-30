@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning the technical and non-technical aspects of incident response and management
 - 💞️ I’m looking to collaborate on some low-code community driven projects.
 - 📫 How to reach me chikezie.jobs@gmail.com
-- 😄 Pronouns: it
-- ⚡ Fun fact: I love analysing human and ai behavior
+- 😄 Pronouns: He
+- ⚡ Fun fact: I love analysing human behavior, and AI behavior through observation and context engineering respectively.
 
 <!---
 vcchikezie/vcchikezie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
